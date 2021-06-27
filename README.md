@@ -9,3 +9,4 @@ Devel-ops 개발 크루의 Spring Study입니다.
 세 번째 발표(3단원) - https://docs.google.com/presentation/d/12WQpIkCp71EMDbkRLB4Sjj37CDGwmfr42E3ne9tmYtY/edit?usp=sharing <br>
 네 번째 발표(4단원) - https://docs.google.com/presentation/d/1mO9tWoLmpVsnsmUj_o_VC-B9u3B5oGOWQ08OcjUzKOU/edit?usp=sharing <br>
 다섯 번째 발표(6단원) - https://docs.google.com/presentation/d/1H_M2Q-zi_A6AWbMOnq0NoGc0CcJK3Pz6LI-ElMjiDRQ/edit#slide=id.p <br>
+여섯 번째 발표(7단원) - https://docs.google.com/presentation/d/1Cxuky2MrODxgM1fKl0rD--qN6kS_2p1hOB-I0vJn7bg/edit?usp=sharing <br>
