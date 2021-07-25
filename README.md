@@ -1,5 +1,5 @@
 # Devel-ops-Basic-Spring
-Devel-ops 개발 크루의 Spring Study입니다.
+Devel-ops 개발 크루의 Spring Study입니다. (2021/5/9 ~ 2021/7/18)
 
 공부 내용을 요악 정리하는 Repository입니다.
 
